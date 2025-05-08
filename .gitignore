@@ -1,0 +1,5 @@
+*.bak
+/snapshots
+/sla_material
+/sla_print
+PrusaSlicerGcodeViewer*
