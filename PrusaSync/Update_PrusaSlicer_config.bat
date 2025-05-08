@@ -3,8 +3,8 @@ mode con: cols=60 lines=16
 echo:
 echo Updating Prusaslicer Config
 
-set repoauthor=YOUR GITHUB USERNAME
-set reponame=YOUR GITHUB REPOSITORY NAME
+set repoauthor=chking999
+set reponame=prusaslicer-config-sync
 
 :: Check if repoauthor has been set
 IF NOT "%repoauthor%"=="%repoauthor:YOUR GITHUB USERNAME=%" (
